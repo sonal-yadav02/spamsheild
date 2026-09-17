@@ -1,0 +1,29 @@
+# Project Statement
+
+## Problem Statement
+Spam messages can contain unwanted advertisements, misleading offers, or suspicious requests. Manually identifying every message is inconvenient. SpamShield aims to classify a text message automatically as SPAM or NOT SPAM using NLP and machine learning.
+
+## Scope
+The project covers:
+- Text message input
+- Data loading and validation
+- NLP preprocessing
+- Machine-learning model training
+- Message classification
+- Model evaluation
+- Prediction report generation
+
+The project is designed as a command-line application and does not send, delete, or modify real messages.
+
+## Target Users
+- Students learning AI and NLP
+- Developers experimenting with text classification
+- Users who want to demonstrate automated spam classification
+
+## High-Level Features
+1. Message classification
+2. NLP preprocessing
+3. Machine-learning model training
+4. Model evaluation
+5. Prediction report generation
+6. Input validation
